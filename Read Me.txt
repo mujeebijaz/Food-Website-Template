@@ -1,0 +1,4 @@
+This template is design for Food website as a sample. The code is in HTML or CSS. The template is responsive and well design.
+
+CopyRight:
+If anyone want to use this code for educational purpose or practicing skills then it is free to use. Selling this code is allowed.
